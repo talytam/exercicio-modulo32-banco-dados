@@ -21,7 +21,7 @@ SELECT
     a.last_name,
     COUNT(fa.film_id) AS quantidade_filmes
 FROM actor a
-INNER JOIN film_actor fa
+LEFT JOIN film_actor fa
     ON a.actor_id = fa.actor_id
 GROUP BY
     a.actor_id,
