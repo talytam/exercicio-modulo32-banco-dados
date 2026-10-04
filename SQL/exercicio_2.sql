@@ -16,7 +16,7 @@ FROM (
     SELECT
         a.actor_id
     FROM actor a
-    INNER JOIN film_actor fa
+    LEFT JOIN film_actor fa
         ON a.actor_id = fa.actor_id
     GROUP BY
         a.actor_id
