@@ -1,3 +1,5 @@
+> **Projeto concluído.** Esta atividade faz parte da formação em Engenharia de Qualidade de Software da EBAC e também está consolidada no repositório [exercicios-ebac](https://github.com/talytam/exercicios-ebac). Este repositório foi mantido para preservar a entrega original e seu histórico.
+
 # Módulo 32 - Banco de Dados SQL/NoSQL
 
 Exercício do módulo 32 do curso de Engenharia de Qualidade de Software da EBAC.
